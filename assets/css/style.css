@@ -1,0 +1,21 @@
+.carousel .bannerImage{
+    height: 90vh;
+    width: 100%;
+}
+.carousel h5{
+    color:blue;
+    font-size:xx-large;
+    text-transform: uppercase;
+}
+.carousel p{
+    background-color: rgba(19, 143, 133, 0.39);
+    padding: 10px;
+    font-size: 24px;
+}
+
+.border{
+    background:darkgray;
+    height: 5px!important;
+    width: 40px;
+    margin: 10px 0px;
+}
